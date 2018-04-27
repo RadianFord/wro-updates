@@ -1,7 +1,7 @@
 MVP & Normal Card Edits
 ==============
 
-1. HWC - Enable its user to detect hidden enemies. [Headgear]
+1. HWC - Reduce magic damage from all Elements by 55% [Garment]
 2. Maya Purple Card - Reduces after cast delay of all skills by 15% [Headgear] // Mini Boss
 3. LKC - Enable Berserk skill. [Headgear]
 4. SINXC - When card is compound there's a 10% chance of auto casting level 1 Enchant Deadly Poison. [Garment]
@@ -33,3 +33,8 @@ MVP & Normal Card Edits
 30: Boss Egnigem Card: When card is compound into One/Two Handed Sword and Spears, Boost Bowling Bash skill by 35% CRIT +10 and HIT +30 [Weapon]
 31: Dracula Card: Enable to use a level 3 Cloaking skills. [Equipped on Garments]
 32: Pharaoh Card: Gain immunity to the Stone Cursed status. MaxHP +10% [Headgears]
+33: Professor Celia Card: Increase Cold Bolt, Fire Bolt, Lightning Bolt and Magic Crasher skills by 25%. INT +25 [Accessory]
+34: Creator Flamel Card: Increase Mammonite, Cart Termination and Axe Tornado skills by 50%. STR +15, INT +10 [Accessory]
+35: Stalker Gertie Card: Increase Double Strafe, Sharp Shooting, Piercing Shot, Rapid Shower and Desperado skills by 50%. DEX +25 [Accessory]
+36: Paladin Randel Card: Increase Holy Cross, Shield Chain, Cannon Spear, Pierce, Bash and Spiral Pierce skills by 50%. STR +25 [Accessory]
+37: Gypsy Trentini Card: Increase Throw Arrow, Musical Strike, Arrow Vulcan and Severe Rainstorm skills by 50%. DEX +25 [Accessory]
