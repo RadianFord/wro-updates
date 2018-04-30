@@ -2,7 +2,7 @@ MVP & Normal Card Edits
 ==============
 
 1. HWC - Reduce magic damage from all Elements by 55% [Garment]
-2. Maya Purple Card - Reduces after cast delay of all skills by 15% [Headgear] // Mini Boss
+2. Maya Purple Card - Enable to see hidden enemies. [Headgear] // Mini Boss
 3. LKC - Enable Berserk skill. [Headgear]
 4. SINXC - When card is compound there's a 10% chance of auto casting level 1 Enchant Deadly Poison. [Garment]
 5. Sniper Card - Heals the attacked for 40% percentage of attack damage dealt. [Weapon]
@@ -38,3 +38,6 @@ MVP & Normal Card Edits
 35: Stalker Gertie Card: Increase Double Strafe, Sharp Shooting, Piercing Shot, Rapid Shower and Desperado skills by 50%. DEX +25 [Accessory]
 36: Paladin Randel Card: Increase Holy Cross, Shield Chain, Cannon Spear, Pierce, Bash and Spiral Pierce skills by 50%. STR +25 [Accessory]
 37: Gypsy Trentini Card: Increase Throw Arrow, Musical Strike, Arrow Vulcan and Severe Rainstorm skills by 50%. DEX +25 [Accessory]
+38: Orc Lord Card: Reflect 30% physical attacks. MaxHP +45% [Armor]
+39: Tao Gunka Card: MaxHP +120% no more reduction from magical and physical defense. [Armor]
+40: Garm Card: +10% Resist from Water property monsters. +50% chance of freezing enemies [Garment]
