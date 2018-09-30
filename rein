@@ -13,3 +13,7 @@ Level 4: All Stats + 25, HP/SP +20%, Critical +35%, Movement Speed +35%, Medium 
 // 41 ~ 50 Reincarnate
 // Reaching max reincarate npc will reward you with the Class Manual
 Level 5: All Stats + 30, HP/SP +25%, Critical +40%, Movement Speed +40%, Medium Size + 15%
+
+// Upon reaching the maximum reincarnation, you'll be rewarded with a class mastery manual.
+// that allows you to switch classes and save your IMBA builds.
+// You cannot use it in WOE, PVP and GVG areas.
