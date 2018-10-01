@@ -1,0 +1,7 @@
+// Before each vit you gained will increases its def2
+// now each 10 vit you gained will be divided by 5.
+  example : vit : 397+3 = 1+60
+
+// EDP has now 25% + 25% * skill level.
+
+// Asura SP caps only up to 2000 SP.
