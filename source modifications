@@ -1,6 +1,6 @@
 // Before each vit you gained will increases its def2
-// now each 10 vit you gained will be divided by 5.
-  example : vit : 397+3 = 1+60
+// now each 2 vit you gained 1 def.
+  example : vit 500 + 135 = 635 / 2 = 317
 
 // EDP has now 25% + 25% * skill level.
 
