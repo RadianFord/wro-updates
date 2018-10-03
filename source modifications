@@ -1,6 +1,8 @@
 // Before each vit you gained will increases its def2
 // now each 2 vit you gained 1 def.
   example : vit 500 + 135 = 635 / 2 = 317
+  
+// Dex is removed from adding aspd. now its all agi
 
 // EDP has now 25% + 25% * skill level.
 
