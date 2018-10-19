@@ -7,3 +7,7 @@
 // EDP has now 25% + 25% * skill level.
 
 // Asura SP caps only up to 2000 SP.
+
+// Added zeny when killing a monster.
+Normal monsters: 250 zeny.
+Boss monsters: 1250 zeny.
