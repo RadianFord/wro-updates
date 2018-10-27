@@ -11,7 +11,7 @@ MVP & Normal Card Edits
 8. Thara Frog Card - Reduce damage from DemiHumans by 20%. [Shield]
 9. Ifrit Card - 25% damage to DemiHumans. [Weapon]
 10. Seyren Windsor Card - +1 STR per 4 refine of the item. [Headgears]
-11. Hydra Card - 10% damage to DemiHumans. [Weapon] // Normal Monsters
+11. Hydra Card - 5% damage to DemiHumans. [Weapon] // Normal Monsters
 12. Whitesmith Card - 20% Weapon / 15% Armor. [Weapon]
 13. Atroce Card: Increases users attack speed by 1 when player reached the max ASPD limit. [Accessory]
 14. Amon Ra Card: Enable the user to use level 10 Kyrie Eleison [Accessory]
@@ -56,3 +56,9 @@ MVP & Normal Card Edits
 53: Morgana Card: Healing skills +25%. [Weapon]
 54: Mythical Card: Magical damage on DemiHuman and Angel type monsters +25%, Matk +5% MaxSP -25%. [Shoes]
 55: Mistress Card: When being attacked by enemies this card will auto cast a level 10 Heal skill on the user. [Middle Headgears only]
+56: Jakk Card: 10% resist on Fire property. [Garment]
+57: Marse Card: 10% resist on Water property.
+58: Dustiness Card: 10% resist on Wind property.
+59: Myst Card: 10% resist to Poison property.
+60: Raydric Card: 10% resist on Neutral property.
+61: Hode Card: 10% resist on Earth property. [ Garment]
