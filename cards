@@ -3,10 +3,10 @@ MVP & Normal Card Edits
 
 1. HWC - Reduce magic damage from all Elements by 55% [Garment]
 2. LKC - Enable Berserk skill. [Headgear]
-3. SINXC - When card is compound there's a 10% chance of auto casting level 1 Enchant Deadly Poison. [Garment]
-4. Sniper Card - Heals the attacked for 40% percentage of attack damage dealt. [Weapon]
+3. SINXC - When card is compound there's a 10% chance of auto casting level 2 Enchant Deadly Poison. [Garment]
+4. Sniper Card - Heals the attacked for 25% percentage of attack damage dealt. [Weapon]
 5. High Priest Card - Increases Heal skill by 25%. [Weapon]
-6. Valkyrie Randgris Card - 20% Atk + Dispell skill [Weapon]
+6. Valkyrie Randgris Card - 20% Atk, 50% of casting Dispell skill [Weapon]
 7. Drake Card - Reduce damage from DemiHumans by 35%. [Shield]
 8. Thara Frog Card - Reduce damage from DemiHumans by 20%. [Shield]
 9. Ifrit Card - 25% damage to DemiHumans. [Weapon]
@@ -48,4 +48,10 @@ MVP & Normal Card Edits
 45: Gloom Undernight: Increases Physical damage to Holy monsters by 120%.
 46: Lady Tanee Card: Ignore's Dispell skill by 90% when casted by your enemy. [Lower Headgear only]
 47: Naght Seiger Card: Enable to use Level 3 Maximum Power Thrust skill. [Accessories]
-
+48: Small Weight Card: Additional 1000 Weight on the player. [Shoes]
+49: Medium Weight Card: Additional 3000 Weight on the player. [Shoes]
+50: Large Weight Card: Additional 5000 Weight on the player. [Shoes]
+51: Satanic Card: Heals the attacked for 10% percentage of attack damage dealt. [Weapon]
+52: Tarrasque Card: MaxHP +75%. [Armor]
+53: Morgana Card: Healing skills +25%. [Weapon]
+54: Mythical Card: Magical damage on DemiHuman and Angel type monsters +25%, Matk +5% MaxSP -25%. [Shoes]
