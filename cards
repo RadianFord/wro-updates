@@ -12,7 +12,7 @@ MVP & Normal Card Edits
 9. Ifrit Card - 25% damage to DemiHumans. [Weapon]
 10. Seyren Windsor Card - +1 STR per 4 refine of the item. [Headgears]
 11. Hydra Card - 5% damage to DemiHumans. [Weapon] // Normal Monsters
-12. Whitesmith Card - 20% Weapon / 15% Armor. [Weapon]
+12. Whitesmith Card - 20% Weapon / 15% Armor additional effect from Daedalus card. [Weapon]
 13. Atroce Card: Increases users attack speed by 1 when player reached the max ASPD limit. [Accessory]
 14. Amon Ra Card: Enable the user to use level 10 Kyrie Eleison [Accessory]
 15. White Lady Card: +50% when using Heal + Autocast level 10 Heal when using Heal. [Headgears]
@@ -62,3 +62,4 @@ MVP & Normal Card Edits
 59: Myst Card: 10% resist to Poison property.
 60: Raydric Card: 10% resist on Neutral property.
 61: Hode Card: 10% resist on Earth property. [ Garment]
+62: Thanatos card: Def -30 and Flee -30 has been removed from the card effect.
