@@ -13,13 +13,13 @@
 4. Food Crafting
 5. Healer
 6. Job Master
-7. Playtime Kafra
+7. Playtime Kafra [Hourly Points]
 8. Refine System
-9. Rental NPC
+9. Rental NPC [Costume Headgears]
 10. Security System
 11. Town Dealer
 12. Town Warper
-13. Universal NPC
+13. Universal NPC [Utilities] 
 14. Weapon Compounder
 
 //  Feature's in game
@@ -28,5 +28,7 @@
 3. MVP Goal Facility
 4. PVP Area
 5. Reincarnation System
+6. MAP [Most Active Player] System
+7. MVP House [Most MVP re-spawn in here]
 
 // -- will be updated, when there's a new npc added in-game.
