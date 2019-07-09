@@ -30,7 +30,7 @@ MVP & Normal Card Edits
 27: Evil Snake Lord Card: Gives the user 45% chance to bypass the immunity from GTB card effect. [Shield]
 28: RSX-0806 Card: Ignore's all magic reflected skills by 70%. [Shield]
 29: Boss Egnigem Card: Enable to use level 10 Bash and Bowling Bash skills [Lower Headgear only]
-30: Dracula Card: Enable to use a level 3 Cloaking skills. [Equipped on Garments]
+30: Dracula Card: Enable to use a level 10 Cloaking skills. [Equipped on Garments]
 31: Pharaoh Card: Gain immunity to the Stone Cursed status. MaxHP +10% [Headgears]
 32: Professor Celia Card: Increase Cold Bolt, Fire Bolt, Lightning Bolt and Magic Crasher skills by 25%. INT +25 [Accessory]
 33: Creator Flamel Card: Increase Mammonite, Cart Termination and Axe Tornado skills by 50%. STR +15, INT +10 [Accessory]
@@ -63,3 +63,5 @@ MVP & Normal Card Edits
 60: Raydric Card: 10% resist on Neutral property.
 61: Hode Card: 10% resist on Earth property. [ Garment]
 62: Thanatos card: Def -30 and Flee -30 has been removed from the card effect.
+63: Angeling Card: 50% resistance from Holy property monsters. Increase Str, Agi and Vit by 1 per refine of the headgear. [Headgear] - This card wont stack, only 1 will work.
+64: Arc Angeling Card: 2% resistance from DemiHuman monsters. Increase Int, Dex and Luk by 1 per refine of the headgear. [Headgear] - This card wont stack too, only 1 will work.
