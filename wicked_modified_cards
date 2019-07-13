@@ -2,17 +2,17 @@ MVP & Normal Card Edits
 ==============
 
 1. HWC - Reduce magic damage from all Elements by 55% [Garment]
-2. LKC - Enable Berserk skill. [Headgear]
+2. LKC - Enable Berserk skill. When player is on berserk status/mode it ignores melee,range attacks. Magic nope. [Headgear]
 3. SINXC - When card is compound there's a 10% chance of auto casting level 2 Enchant Deadly Poison. [Garment]
-4. Sniper Card - Heals the attacked for 25% percentage of attack damage dealt. [Weapon]
-5. High Priest Card - Increases Heal skill by 25%. [Weapon]
+4. Sniper Card - Heals the attacked for 25% percentage of attack damage dealt. [Weapon] (Included in MaxCardCompound: maxlimit: 2 cards)
+5. High Priest Card - Increases damage of Holy Light and Adoramus skill by 25%. [Accessory]
 6. Valkyrie Randgris Card - 20% Atk, 50% of casting Dispell skill [Weapon]
 7. Drake Card - Reduce damage from DemiHumans by 35%. [Shield]
 8. Thara Frog Card - Reduce damage from DemiHumans by 20%. [Shield]
 9. Ifrit Card - 25% damage to DemiHumans. [Weapon]
 10. Seyren Windsor Card - +1 STR per 4 refine of the item. [Headgears]
 11. Hydra Card - 5% damage to DemiHumans. [Weapon] // Normal Monsters
-12. Whitesmith Card - 20% Weapon / 15% Armor additional effect from Daedalus card. [Weapon]
+12. Whitesmith Card - 20% Weapon / 15% Armor and Critical Chance +50%, Critical damage +300%. [Weapon] (Included in MaxCardCompound: maxlimit: 1 card)
 13. Atroce Card: Increases users attack speed by 1 when player reached the max ASPD limit. [Accessory]
 14. Amon Ra Card: Enable the user to use level 10 Kyrie Eleison [Accessory]
 15. White Lady Card: +50% when using Heal + Autocast level 10 Heal when using Heal. [Headgears]
@@ -20,8 +20,8 @@ MVP & Normal Card Edits
 17. Dark Lord + Dark Illusion Card: Level 10 Meteor, +10% damage + 20% HP and SP when two cards are equipped.
 18. Eddga Card: Enable users to use level 1 Concentration skill. [Shoes]
 19. Horn Card: Now reduce 15% ranged attacks. [Shield] // Normal Monster
-20. Detale Card: Reduces long range attacks by 55%. Dex +10 [Shield]
-21. Ktullanux Card: +25% HP, Gain immunity from freeze. [Armors]
+20. Detale Card: Reduces long range attacks by 55%. Dex +15 [Shield]
+21. Ktullanux Card: +50% HP, Gain immunity from freeze. [Armors]
 22. Vesper Card: Ignore's 50% of MVP boss defense. [Headgears]
 23. Maya Card: Added 15% Auto casting level 1 LP(Land Pro) when hit by magic. [Shield]
 24: Kiel Card: Added +15 STR and INT bonus [Headgears]
@@ -31,7 +31,7 @@ MVP & Normal Card Edits
 28: RSX-0806 Card: Ignore's all magic reflected skills by 70%. [Shield]
 29: Boss Egnigem Card: Enable to use level 10 Bash and Bowling Bash skills [Lower Headgear only]
 30: Dracula Card: Enable to use a level 10 Cloaking skills. [Equipped on Garments]
-31: Pharaoh Card: Gain immunity to the Stone Cursed status. MaxHP +10% [Headgears]
+31: Pharaoh Card: Gain immunity to the Stone Cursed status. MaxHP +10% and There's a 100% chance to steal 5% of inflicted damage on enemies and apply it to users HP. [Headgears] (Included in MaxCardCompound: maxlimit: 1 card)
 32: Professor Celia Card: Increase Cold Bolt, Fire Bolt, Lightning Bolt and Magic Crasher skills by 25%. INT +25 [Accessory]
 33: Creator Flamel Card: Increase Mammonite, Cart Termination and Axe Tornado skills by 50%. STR +15, INT +10 [Accessory]
 34: Stalker Gertie Card: Increase Double Strafe, Sharp Shooting, Piercing Shot, Rapid Shower and Desperado skills by 50%. DEX +25 [Accessory]
@@ -42,7 +42,7 @@ MVP & Normal Card Edits
 39: Garm Card: +10% Resist from Water property monsters. +50% chance of freezing enemies [Garment]
 40: Osiris Card: When user's reached or below 10% of its HP, it will regenerate up to 100% HP again. [Garment]
 41: Incantation Samurai Card: +10% damage to all enemies, ignore normal monster's defense when attacking. [Weapon]
-42: Stormy Knight Card: Add a 2% chance of auto casting Level 2 Storm Gust on the enemy when attacking. Has 20% chance of Freezing an enemy when attacking. [Weapon]
+42: Stormy Knight Card: Add a 10% chance of auto casting Level 10 Storm Gust on the enemy when attacking. Has 35% chance of Freezing an enemy when attacking. [Weapon] (Included in MaxCardCompound: maxlimit: 1 card)
 43: Evasion Card: 35% Evasion to all physical attacks. [Shield]
 44: Daedalus Card: Increases 200% critical attacks with 30% chance. [Weapon]
 45: Gloom Undernight: Increases Physical damage to Holy monsters by 120%.
